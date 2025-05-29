@@ -65,7 +65,7 @@ services:
   #   networks:
   #     - cdp-tenant
 
-  cdp-node-backend-template:
+  cdp-ps-290525-2:
     build:
       context: .
       target: development
